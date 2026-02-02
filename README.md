@@ -1,5 +1,7 @@
 # Claude Code
 
+hello world
+
 这是一个使用 Claude Code 创建的项目仓库。
 
 ## 简介
